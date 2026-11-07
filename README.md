@@ -8,6 +8,8 @@
 
 <img src="services.png" alt="What we build · 만드는 것: Carvit UX guide, white paper, Simplifier" width="100%">
 
+<img src="builder.png" alt="Carvit builder step 4: reviewing a screen and giving feedback · 카빗 빌더 스텝 4단계, 화면을 눌러 보고 의견 내기" width="100%">
+
 <div align="center">
 
 [Website · 홈페이지](https://simplifier.co.kr/) · [Whitepaper (EN)](https://carvit.ai/) · [백서 (한국어)](https://carvit.ai/ko/)

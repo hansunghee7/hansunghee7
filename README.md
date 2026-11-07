@@ -8,9 +8,9 @@
 
 <img src="services.png" alt="What we build · 만드는 것: Carvit UX guide, white paper, Simplifier" width="100%">
 
-<img src="flow_lime.png" alt="How one video gets made: agents do the work, people confirm at three points · 영상 한 편이 나오는 길, 에이전트가 만들고 사람은 세 곳에서 확인합니다" width="100%">
-
 <img src="builder.png" alt="Carvit builder step 7: your guide is saved · 카빗 빌더 스텝 7단계, 가이드를 저장했어요" width="100%">
+
+<img src="flow_lime.png" alt="How one video gets made: agents do the work, people confirm at three points · 영상 한 편이 나오는 길, 에이전트가 만들고 사람은 세 곳에서 확인합니다" width="100%">
 
 <div align="center">
 
